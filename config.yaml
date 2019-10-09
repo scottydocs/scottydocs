@@ -4,8 +4,8 @@ params:
   layout_style: overflow
   palette: blue
   header:
-    title: Stackbit Fresh
-    tagline: Header Tagline
+    title: James Scott
+    tagline: Technical writer
     profile_img: images/avatar.png
     bg: dark
     has_nav: true
