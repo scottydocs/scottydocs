@@ -5,8 +5,7 @@ sections:
     component: hero_block.html
     type: heroblock
     content: >-
-      This section can contain a subtitle or tagline. The recommended length is
-      one to three sentences, but can be changed as you prefer.
+      I write about technical writing, documentation tools and life as a wordsmith in a Dev Centric world.
   - section_id: about
     component: content_block.html
     type: contentblock
