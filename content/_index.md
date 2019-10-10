@@ -11,7 +11,7 @@ sections:
     type: contentblock
     title: About
     content: >-
-      I'm a contract techncial writer based in London. I like to write about technical writing, documentation tools and life as a wordsmith in a developer-centric world.
+      I'm a contract techncial writer based in London. I like to write about technical writing, documentation tools and life as a wordsmith in a dev-centric world.
     actions:
       - label: Contact Me
         url: /contact
