@@ -22,7 +22,7 @@ I have given talks at two of the largest technical writing conferences in Europe
 * :earth_africa: [Conference link](https://www.writethedocs.org/conf/prague/2019/)
 
 **Is GraphQL really self-documenting?** - API the Docs, London (November 2018).
-* :clapper: [Recording] (https://www.youtube.com/watch?v=rKzHc1hozB8)
+* :clapper: [Recording](https://www.youtube.com/watch?v=rKzHc1hozB8)
 * :floppy_disk: [Slides](https://speakerdeck.com/scottydocs/is-graphql-really-self-documenting)
 * :earth_africa: [Conference link](https://apithedocs.org/london2018/agenda/jamesscott)
 
