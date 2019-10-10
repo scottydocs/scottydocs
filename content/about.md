@@ -1,8 +1,8 @@
 ---
 title: About Me
 subtitle: This is a short page about me and my work.
-layout: page
 img_path: images/me.jpg
+layout: page
 menu:
   main:
     weight: 4
