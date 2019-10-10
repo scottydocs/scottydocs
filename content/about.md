@@ -18,12 +18,12 @@ I have given talks at two of the largest technical writing conferences in Europe
 
 **How to write great error messages** - Write the Docs, Prague (September 2019).
 * :clapper: [Recording](https://www.youtube.com/watch?v=hzCfl8CGJuw)
-* :floppy_disk: [Slides](https://speakerdeck.com/scottydocs/101-to-404-s-how-to-write-a-great-error-message)
+* 💾 [Slides](https://speakerdeck.com/scottydocs/101-to-404-s-how-to-write-a-great-error-message)
 * :earth_africa: [Conference link](https://www.writethedocs.org/conf/prague/2019/)
 
 **Is GraphQL really self-documenting?** - API the Docs, London (November 2018).
 * :clapper: [Recording](https://www.youtube.com/watch?v=rKzHc1hozB8)
-* :floppy_disk: [Slides](https://speakerdeck.com/scottydocs/is-graphql-really-self-documenting)
+* 💾 [Slides](https://speakerdeck.com/scottydocs/is-graphql-really-self-documenting)
 * :earth_africa: [Conference link](https://apithedocs.org/london2018/agenda/jamesscott)
 
 
