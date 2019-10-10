@@ -17,7 +17,7 @@ I have worked with engineering teams in FinTech, the hospitality sector, AIOps (
 I have given talks at two of the largest technical writing conferences in Europe: 
 
 **How to write great error messages** - Write the Docs, Prague (September 2019).
-* :clapper:: [Recording](https://www.youtube.com/watch?v=hzCfl8CGJuw)
+* :clapper: [Recording](https://www.youtube.com/watch?v=hzCfl8CGJuw)
 * :floppy_disk: [Slides](https://speakerdeck.com/scottydocs/101-to-404-s-how-to-write-a-great-error-message)
 * :earth_africa: [Conference link](https://www.writethedocs.org/conf/prague/2019/)
 
